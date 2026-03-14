@@ -19,3 +19,5 @@ This project analyzes Netflix content using Power BI.
 - Country distribution
 - Movies vs TV Shows
 - Release trend analysis
+
+- 
