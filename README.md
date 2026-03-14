@@ -20,4 +20,4 @@ This project analyzes Netflix content using Power BI.
 - Movies vs TV Shows
 - Release trend analysis
 
-- 
+
